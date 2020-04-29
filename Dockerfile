@@ -1,4 +1,4 @@
-#XMage Version: 1.4.37v4
+#XMage Version: 1.4.42v7a
 # Based on official OpenJDK Docker library image
 FROM openjdk:8-jre-alpine
 
